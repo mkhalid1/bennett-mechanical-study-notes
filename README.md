@@ -1,6 +1,6 @@
 # Bennett Mechanical Study Notes
 
-A free, complete study guide for the Bennett Mechanical Comprehension Test (BMCT-II): how the test works, the rules behind each of eight topics, 104 original practice items with full explanations and 45 diagrams, how scoring really works, and study plans for a week or a weekend. Written for anyone sitting the Bennett for a maintenance, production, engineering, apprenticeship or other technical role. Facts about the test come only from Pearson TalentLens and other primary pages, each one [cited](docs/sources.md).
+A free, complete study guide for the Bennett Mechanical Comprehension Test (BMCT-II): how the test works, the rules behind each of eight topics, 48 original practice items with full explanations and 45 diagrams, how scoring really works, and study plans for a week or a weekend. Written for anyone sitting the Bennett for a maintenance, production, engineering, apprenticeship or other technical role. Facts about the test come only from Pearson TalentLens and other primary pages, each one [cited](docs/sources.md).
 
 Want to see where you stand first? Take the [free timed Bennett Mechanical practice test on PrepClubs](https://prepclubs.com/free-practice-tests/bennett-mechanical?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=bennett-mechanical), or the shorter [15-minute diagnostic](docs/diagnostic.md) in this repo.
 
