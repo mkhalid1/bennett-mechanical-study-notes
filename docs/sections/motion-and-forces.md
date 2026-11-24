@@ -51,7 +51,7 @@ Most motion items need no calculation and should take 10 to 20 seconds. Read the
 
 ## Practice items
 
-These 10 items are original, written for these notes. They are not taken from the Bennett Mechanical Comprehension Test or any publisher's materials. Ignore air resistance unless the item says otherwise.
+These 5 items are original, written for these notes. They are not taken from the Bennett Mechanical Comprehension Test or any publisher's materials. Ignore air resistance unless the item says otherwise.
 
 **Item 1.** Two balls of the same size, one of steel and one of plastic, are dropped at the same moment from the same height. Which lands first?
 
@@ -67,25 +67,13 @@ These 10 items are original, written for these notes. They are not taken from th
 - B. Path B
 - C. Path C
 
-**Item 3.** At the same moment, one marble is rolled quickly off the edge of a table and another is dropped straight down from the same height. Which hits the floor first?
-
-- A. The dropped marble
-- B. The rolled marble
-- C. They land at the same time
-
-**Item 4.** A car takes a sharp bend to the left at speed. Which way do the passengers feel pushed?
+**Item 3.** A car takes a sharp bend to the left at speed. Which way do the passengers feel pushed?
 
 - A. Towards the inside of the bend, to the left
 - B. Towards the outside of the bend, to the right
 - C. Straight forward
 
-**Item 5.** The same wooden box is pushed across three floors. On which does it take the most force to keep it sliding?
-
-- A. Ice
-- B. Polished wood
-- C. Coarse sandpaper
-
-**Item 6.** Which launch angle sends the ball farthest along the ground?
+**Item 4.** Which launch angle sends the ball farthest along the ground?
 
 ![A ball launched at 30, 45 or 60 degrees above level ground](../../assets/mot-6-launch-angles.svg)
 
@@ -93,27 +81,7 @@ These 10 items are original, written for these notes. They are not taken from th
 - B. B (45 degrees)
 - C. C (60 degrees)
 
-**Item 7.** A person standing in a small boat at rest throws a heavy bag off the back of the boat. Which way does the boat move?
-
-- A. Forward
-- B. Backward
-- C. It does not move
-
-**Item 8.** Which pendulum swings back and forth fastest, making the most swings per minute?
-
-![Three pendulums: A 2 m long with 1 kg, B 1 m with 3 kg, C 0.5 m with 1 kg](../../assets/mot-8-pendulums.svg)
-
-- A. A
-- B. B
-- C. C
-
-**Item 9.** An ice skater spinning on the spot pulls her arms in close to her body. What happens to her spin?
-
-- A. It gets faster
-- B. It gets slower
-- C. It stays the same
-
-**Item 10.** A 2 N weight stretches the spring by 1 cm. How far does a 6 N weight stretch it?
+**Item 5.** A 2 N weight stretches the spring by 1 cm. How far does a 6 N weight stretch it?
 
 ![Spring stretched 1 cm by 2 N; how far by 6 N](../../assets/mot-10-spring.svg)
 
@@ -122,39 +90,31 @@ These 10 items are original, written for these notes. They are not taken from th
 - C. 6 cm
 
 <details>
-<summary>Answers and explanations, items 1 to 10</summary>
+<summary>Answers and explanations, items 1 to 5</summary>
 
 **Item 1: C (same time).** Without air resistance, gravity speeds up every object at the same rate, whatever its mass. *Why not A:* a heavier ball is pulled harder, but it is also harder to speed up by exactly the same amount, so the effects cancel.
 
 **Item 2: B (path B).** Once the string snaps, nothing pulls the ball towards the centre, so it carries on in a straight line in the direction it was moving at that instant. At the top of the circle it was moving to the right. *Why not A:* following the circle needs the string's pull. *Why not C:* flying straight outward is the most common wrong answer. There is no force pushing it out.
 
-**Item 3: C (same time).** The sideways motion does not change how fast the marble falls. Both start falling from the same height at the same moment, so both land together. The rolled marble just lands further away. *Why not A:* the dropped marble does not have a shorter path downward. Both fall the same height.
+**Item 3: B (outward, to the right).** The passengers' bodies tend to keep moving straight ahead while the car turns left underneath them, so they feel pressed towards the right-hand side. *Why not A:* the car pushes them left through the seat and door, but what they feel is being pressed outward against it.
 
-**Item 4: B (outward, to the right).** The passengers' bodies tend to keep moving straight ahead while the car turns left underneath them, so they feel pressed towards the right-hand side. *Why not A:* the car pushes them left through the seat and door, but what they feel is being pressed outward against it.
+**Item 4: B (45 degrees).** With the same launch speed, level ground and no air resistance, 45 degrees gives the farthest distance. A lower angle gives less time in the air. A higher angle spends more of the speed going up. *Why not C:* 60 degrees keeps the ball in the air longer, but it moves forward more slowly.
 
-**Item 5: C (coarse sandpaper).** Rough surfaces grip more, so friction is highest on sandpaper. *Why not A:* ice is the most slippery of the three and needs the least force.
-
-**Item 6: B (45 degrees).** With the same launch speed, level ground and no air resistance, 45 degrees gives the farthest distance. A lower angle gives less time in the air. A higher angle spends more of the speed going up. *Why not C:* 60 degrees keeps the ball in the air longer, but it moves forward more slowly.
-
-**Item 7: A (forward).** Throwing the bag backwards pushes back on the person, and through them on the boat, in the opposite direction, so the boat moves forward. *Why not C:* nothing moving would mean the throw had no push back, which cannot happen.
-
-**Item 8: C.** A pendulum's swing time depends on its length. The shortest pendulum swings fastest. *Why not B:* B is heavier, but the mass on the end does not change the swing time.
-
-**Item 9: A (faster).** Pulling her arms in brings her mass closer to the centre of the spin, so she spins faster, just as a weight on a string speeds up when the string is shortened. *Why not C:* her spin is not slowed or sped by any outside push, but redistributing her mass changes how fast she turns.
-
-**Item 10: B (3 cm).** Stretch is proportional to load. 6 N is three times 2 N, so the stretch is three times 1 cm. *Why not C:* 6 cm would mean 1 cm per newton, but the spring stretches 1 cm for every 2 N.
+**Item 5: B (3 cm).** Stretch is proportional to load. 6 N is three times 2 N, so the stretch is three times 1 cm. *Why not C:* 6 cm would mean 1 cm per newton, but the spring stretches 1 cm for every 2 N.
 
 </details>
 
+Want more? The [free timed Bennett Mechanical practice test on PrepClubs](https://prepclubs.com/free-practice-tests/bennett-mechanical?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=bennett-mechanical) has the full 55 questions in 25 minutes, every answer explained.
+
 ## Score yourself
 
-| Item | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
-| Answer | C | B | C | B | C | B | A | C | A | B |
+| Item | 1 | 2 | 3 | 4 | 5 |
+|---|---|---|---|---|---|
+| Answer | C | B | B | B | B |
 
-- **9 to 10:** your physical intuition is well trained. Move on.
-- **6 to 8:** check whether the misses were "feels right" answers. Write down the rule each one broke.
-- **5 or fewer:** reread the rules list at the top. These items reward rules over gut feeling more than any other topic.
+- **5 of 5:** your physical intuition is well trained. Move on.
+- **3 to 4:** check whether the misses were "feels right" answers. Write down the rule each one broke.
+- **2 or fewer:** reread the rules list at the top. These items reward rules over gut feeling more than any other topic.
 
 ## Next step
 

@@ -51,7 +51,7 @@ The test gives 55 items in 25 minutes, about 27 seconds each ([Pearson TalentLen
 
 ## Practice items
 
-These 10 items are original, written for these notes. They are not taken from the Bennett Mechanical Comprehension Test or any publisher's materials. Ignore the weight of beams, bars and planks unless the item says otherwise.
+These 5 items are original, written for these notes. They are not taken from the Bennett Mechanical Comprehension Test or any publisher's materials. Ignore the weight of beams, bars and planks unless the item says otherwise.
 
 **Item 1.** A 60 kg box sits 2 m to the left of a seesaw's pivot. Where on the right should a 40 kg box go so the seesaw balances?
 
@@ -77,21 +77,7 @@ These 10 items are original, written for these notes. They are not taken from th
 - B. 300 N
 - C. 600 N
 
-**Item 4.** A load sits on a plank resting on two trestles. Which trestle carries more of the load?
-
-![Plank on trestles A and B, load 1 m from A and 3 m from B](../../assets/lev-4-plank.svg)
-
-- A. Trestle A
-- B. Trestle B
-- C. Both carry the same
-
-**Item 5.** You push a heavy door shut with one finger. Where on the door is it easiest to push?
-
-- A. Close to the hinges
-- B. In the middle of the door
-- C. At the edge furthest from the hinges
-
-**Item 6.** What weight hung at 5 m on the right will balance the beam?
+**Item 4.** What weight hung at 5 m on the right will balance the beam?
 
 ![Beam with 10 N at 1 m and 20 N at 2 m on the left, unknown weight at 5 m on the right](../../assets/lev-6-two-weights.svg)
 
@@ -99,7 +85,7 @@ These 10 items are original, written for these notes. They are not taken from th
 - B. 10 N
 - C. 30 N
 
-**Item 7.** The board is tilted slowly. None of the blocks slide. Which block tips over first?
+**Item 5.** The board is tilted slowly. None of the blocks slide. Which block tips over first?
 
 ![Three blocks with the same base and different heights on a tilting board](../../assets/lev-7-tipping.svg)
 
@@ -107,28 +93,8 @@ These 10 items are original, written for these notes. They are not taken from th
 - B. Block B
 - C. Block C
 
-**Item 8.** A rusted nut will not move with a 25 cm spanner. Which change is most likely to free it?
-
-- A. Holding the same spanner closer to the nut
-- B. Using a spanner twice as long and holding it at the end
-- C. Turning the same spanner faster
-
-**Item 9.** You are cutting thick cardboard with ordinary scissors. Where along the blades is the cut easiest?
-
-- A. Near the tips of the blades
-- B. Near the pivot screw
-- C. It is the same anywhere along the blades
-
-**Item 10.** The balance hangs level. What is the weight W?
-
-![Balance with a 10 cm arm holding W and a 20 cm arm holding 3 N](../../assets/lev-10-uneven-balance.svg)
-
-- A. 1.5 N
-- B. 3 N
-- C. 6 N
-
 <details>
-<summary>Answers and explanations, items 1 to 10</summary>
+<summary>Answers and explanations, items 1 to 5</summary>
 
 **Item 1: B (3 m).** Left side: 60 x 2 = 120. Right side: 40 x 3 = 120. *Why not C:* at 4 m the 40 kg box gives 160, more than 120, so the right side would go down. *Why not A:* at 2 m it gives only 80.
 
@@ -136,31 +102,23 @@ These 10 items are original, written for these notes. They are not taken from th
 
 **Item 3: A (200 N).** The axle is the pivot. Load: 600 x 0.4 = 240. Handles: F x 1.2 = 240, so F = 200 N. *Why not B:* 300 N would be right only if the load sat halfway, at 0.6 m. *Why not C:* that would mean lifting the whole load with no help from the wheel.
 
-**Item 4: A.** The load is 1 m from A and 3 m from B, so it is much closer to A. The closer support takes more: A carries three quarters of the load and B one quarter. *Why not C:* the supports share equally only when the load is exactly in the middle.
+**Item 4: B (10 N).** Left side: 10 x 1 + 20 x 2 = 10 + 40 = 50. Right side: W x 5 = 50, so W = 10 N. *Why not C:* 30 N is the total weight on the left. Simply matching totals ignores the distances. *Why not A:* 6 N gives only 30 on the right.
 
-**Item 5: C.** The hinges are the pivot. Pushing furthest from them gives your force the longest arm and the biggest turning effect. *Why not B:* the middle works, but needs about twice the force of the edge.
-
-**Item 6: B (10 N).** Left side: 10 x 1 + 20 x 2 = 10 + 40 = 50. Right side: W x 5 = 50, so W = 10 N. *Why not C:* 30 N is the total weight on the left. Simply matching totals ignores the distances. *Why not A:* 6 N gives only 30 on the right.
-
-**Item 7: B.** All three have the same base, so the tallest has the highest centre of gravity. As the board tilts, the tallest block's centre of gravity is the first to move past the edge of its base, and it tips. *Why not C:* C is shorter than B, so it needs a steeper tilt before it goes over.
-
-**Item 8: B.** Turning effect is force times distance. Doubling the length of the spanner doubles the turning effect for the same push. *Why not A:* holding closer to the nut shortens the arm and makes it harder. *Why not C:* speed does not add turning effect, a steady strong push does.
-
-**Item 9: B.** The pivot screw is the pivot and your hand is on the handles. Card close to the pivot is a short distance from it, so the force your hand applies is multiplied most there. *Why not A:* at the tips the card is furthest from the pivot, so the blades press on it with the least force.
-
-**Item 10: C (6 N).** Right side: 3 x 20 = 60. Left side: W x 10 = 60, so W = 6 N. *Why not A:* 1.5 N comes from dividing the wrong way. The weight on the shorter arm must be the heavier one.
+**Item 5: B.** All three have the same base, so the tallest has the highest centre of gravity. As the board tilts, the tallest block's centre of gravity is the first to move past the edge of its base, and it tips. *Why not C:* C is shorter than B, so it needs a steeper tilt before it goes over.
 
 </details>
 
+Want more? The [free timed Bennett Mechanical practice test on PrepClubs](https://prepclubs.com/free-practice-tests/bennett-mechanical?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=bennett-mechanical) has the full 55 questions in 25 minutes, every answer explained.
+
 ## Score yourself
 
-| Item | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
-| Answer | B | A | A | A | C | B | B | B | B | C |
+| Item | 1 | 2 | 3 | 4 | 5 |
+|---|---|---|---|---|---|
+| Answer | B | A | A | B | B |
 
-- **9 to 10:** you have the turning-effect rule. Move to the next section.
-- **6 to 8:** check whether your misses were arithmetic or measuring from the wrong point. Redo them with the method written out.
-- **5 or fewer:** go back to "A method that works" and do every item again on paper, writing each force and distance as a pair before you answer.
+- **5 of 5:** you have the turning-effect rule. Move to the next section.
+- **3 to 4:** check whether your misses were arithmetic or measuring from the wrong point. Redo them with the method written out.
+- **2 or fewer:** go back to "A method that works" and do every item again on paper, writing each force and distance as a pair before you answer.
 
 ## Next step
 

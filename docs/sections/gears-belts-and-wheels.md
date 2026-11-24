@@ -49,7 +49,7 @@ Direction items should take 10 to 15 seconds once you count meshes on reflex. Sp
 
 ## Practice items
 
-These 10 items are original, written for these notes. They are not taken from the Bennett Mechanical Comprehension Test or any publisher's materials.
+These 5 items are original, written for these notes. They are not taken from the Bennett Mechanical Comprehension Test or any publisher's materials.
 
 **Item 1.** Gear A turns clockwise. Which way does gear C turn?
 
@@ -75,21 +75,7 @@ These 10 items are original, written for these notes. They are not taken from th
 - B. Anticlockwise
 - C. It does not turn
 
-**Item 4.** Someone tries to turn gear A clockwise. What happens?
-
-![Three gears in a triangle, each meshing with the other two](../../assets/gear-4-triangle.svg)
-
-- A. All three gears turn clockwise
-- B. A turns clockwise, B and C turn anticlockwise
-- C. The gears jam and none of them can turn
-
-**Item 5.** An open belt joins a pulley 10 cm across to a pulley 30 cm across. The small pulley turns at 300 rpm. How fast does the large pulley turn?
-
-- A. 900 rpm
-- B. 300 rpm
-- C. 100 rpm
-
-**Item 6.** Gear A turns at 60 rpm. How fast does gear D turn?
+**Item 4.** Gear A turns at 60 rpm. How fast does gear D turn?
 
 ![Compound gear train: A 20 teeth meshes with B 40 teeth, B and C share a shaft, C 10 teeth meshes with D 30 teeth](../../assets/gear-6-compound.svg)
 
@@ -97,21 +83,7 @@ These 10 items are original, written for these notes. They are not taken from th
 - B. 10 rpm
 - C. 90 rpm
 
-**Item 7.** A cyclist is riding up a steep hill. Which combination of front chainring and rear sprocket makes pedalling easiest?
-
-- A. Small front chainring, large rear sprocket
-- B. Large front chainring, small rear sprocket
-- C. Front and rear the same size
-
-**Item 8.** The pinion turns clockwise. Which way does the rack move?
-
-![A pinion turning clockwise above a sliding rack](../../assets/gear-8-rack-pinion.svg)
-
-- A. Left
-- B. Right
-- C. It does not move
-
-**Item 9.** What force pulled down on the rim of the wheel will just hold the 300 N bucket? Ignore friction.
+**Item 5.** What force pulled down on the rim of the wheel will just hold the 300 N bucket? Ignore friction.
 
 ![Wheel and axle: 60 cm wheel, 10 cm axle, 300 N bucket on the axle rope](../../assets/gear-9-wheel-axle.svg)
 
@@ -119,16 +91,8 @@ These 10 items are original, written for these notes. They are not taken from th
 - B. 180 N
 - C. 50 N
 
-**Item 10.** The wheel turns at a steady speed. Which point is moving faster?
-
-![A turning wheel with point X near the hub and point Y on the rim](../../assets/gear-10-two-points.svg)
-
-- A. Y
-- B. X
-- C. Both move at the same speed
-
 <details>
-<summary>Answers and explanations, items 1 to 10</summary>
+<summary>Answers and explanations, items 1 to 5</summary>
 
 **Item 1: B (clockwise).** A clockwise, so B (one mesh away) turns anticlockwise, and C (two meshes away) turns clockwise again. Gear size does not change direction. *Why not A:* that would be right for B, not C.
 
@@ -136,31 +100,23 @@ These 10 items are original, written for these notes. They are not taken from th
 
 **Item 3: B (anticlockwise).** A crossed belt reverses direction, just like two meshing gears. *Why not A:* clockwise would be right for an open belt, where both pulleys turn the same way.
 
-**Item 4: C (they jam).** If A turns clockwise, B must turn anticlockwise and C must also turn anticlockwise. But B and C mesh with each other, so they would have to turn in opposite directions. They cannot do both, so the set locks. *Why not B:* it ignores the mesh between B and C.
+**Item 4: B (10 rpm).** A to B: 60 x 20 / 40 = 30 rpm. C is on B's shaft, so C also turns at 30 rpm. C to D: 30 x 10 / 30 = 10 rpm. *Why not A:* 30 rpm is the speed of B and C, one stage too early. *Why not C:* 90 rpm comes from multiplying the ratios the wrong way round.
 
-**Item 5: C (100 rpm).** Diameter x rpm is the same on both pulleys: 10 x 300 = 30 x 100. *Why not A:* 900 rpm would mean the larger pulley turns faster, which is backwards. *Why not B:* equal speeds need equal pulleys.
-
-**Item 6: B (10 rpm).** A to B: 60 x 20 / 40 = 30 rpm. C is on B's shaft, so C also turns at 30 rpm. C to D: 30 x 10 / 30 = 10 rpm. *Why not A:* 30 rpm is the speed of B and C, one stage too early. *Why not C:* 90 rpm comes from multiplying the ratios the wrong way round.
-
-**Item 7: A.** A small chainring driving a large sprocket makes the rear wheel turn slowly for each turn of the pedals, which gives more turning force at the wheel. That is what you want on a hill. *Why not B:* large front with small rear is the fast, hard gear used on flat roads or downhill.
-
-**Item 8: A (left).** Follow the point where the pinion touches the rack: the bottom of the pinion. When a wheel turns clockwise, its top moves right and its bottom moves left. The rack is dragged with the bottom, so it moves left. *Why not B:* right would be correct if the rack were above the pinion.
-
-**Item 9: C (50 N).** The wheel and axle is a lever with the axle centre as the pivot. Bucket side: 300 x 10 = 3000. Rim side: F x 60 = 3000, so F = 50 N. *Why not B:* 180 N comes from subtracting distances, which has no meaning here. *Why not A:* equal force would only be right if the wheel and axle were the same size.
-
-**Item 10: A (Y).** Every point on the wheel makes one turn in the same time, but Y travels round a much bigger circle, so it covers more distance each second. *Why not C:* the points turn at the same rate (same rpm), but not at the same speed.
+**Item 5: C (50 N).** The wheel and axle is a lever with the axle centre as the pivot. Bucket side: 300 x 10 = 3000. Rim side: F x 60 = 3000, so F = 50 N. *Why not B:* 180 N comes from subtracting distances, which has no meaning here. *Why not A:* equal force would only be right if the wheel and axle were the same size.
 
 </details>
 
+Want more? The [free timed Bennett Mechanical practice test on PrepClubs](https://prepclubs.com/free-practice-tests/bennett-mechanical?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=bennett-mechanical) has the full 55 questions in 25 minutes, every answer explained.
+
 ## Score yourself
 
-| Item | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
-| Answer | B | C | B | C | C | B | A | A | C | A |
+| Item | 1 | 2 | 3 | 4 | 5 |
+|---|---|---|---|---|---|
+| Answer | B | C | B | B | C |
 
-- **9 to 10:** gears are a strength. Keep them fast and spend your time elsewhere.
-- **6 to 8:** check which rule you broke: direction, ratio or same-shaft. Redo the misses with the method.
-- **5 or fewer:** practise the direction rule alone first. Draw a row of circles, mark the driver, and label every gear before you think about speed.
+- **5 of 5:** gears are a strength. Keep them fast and spend your time elsewhere.
+- **3 to 4:** check which rule you broke: direction, ratio or same-shaft. Redo the misses with the method.
+- **2 or fewer:** practise the direction rule alone first. Draw a row of circles, mark the driver, and label every gear before you think about speed.
 
 ## Next step
 

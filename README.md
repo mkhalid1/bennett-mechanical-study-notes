@@ -7,7 +7,7 @@ Want to see where you stand first? Take the [free timed Bennett Mechanical pract
 ## Start here
 
 1. **Find your weak topics.** Take the [15-minute diagnostic](docs/diagnostic.md). It has three items from each topic and tells you where to start.
-2. **Fix the weakest topic first.** Open its guide below, learn the rules and the method, then do its 10 practice items.
+2. **Fix the weakest topic first.** Open its guide below, learn the rules and the method, then do its 5 practice items.
 3. **Follow a plan.** Use the [7-day plan](docs/study-plans.md#7-day-plan), or the [2-day plan](docs/study-plans.md#2-day-plan) if your test link has already arrived.
 
 ## Quick facts
@@ -39,7 +39,7 @@ Source: [Pearson TalentLens BMCT-II page](https://www.talentlens.com/bennett-mec
 | Motion and forces | Objects keep moving straight unless a force acts | [Motion](docs/sections/motion-and-forces.md) |
 | Sound, light, shapes and volumes | Equal mirror angles. Calculate volumes, never judge by eye. | [Sound, light, shapes](docs/sections/sound-light-and-shapes.md) |
 
-Every topic guide has the same parts: what it measures, how the questions look, a step-by-step method, the traps that cost points, timing advice, 10 original practice items (most with a diagram) with explanations, and a score table.
+Every topic guide has the same parts: what it measures, how the questions look, a step-by-step method, the traps that cost points, timing advice, 5 original practice items (most with a diagram) with explanations, and a score table.
 
 ## Contents
 
@@ -205,7 +205,7 @@ Every topic guide has the same parts: what it measures, how the questions look, 
 
 ## About the practice items
 
-All 104 practice items and all 45 diagrams are original, written and drawn for these notes. None are taken from the Bennett Mechanical Comprehension Test, from Pearson's materials or from any prep site. They follow the physical principles the test is built on, so the method you learn here transfers to the real test.
+All 48 practice items and all 30 diagrams are original, written and drawn for these notes. None are taken from the Bennett Mechanical Comprehension Test, from Pearson's materials or from any prep site. They follow the physical principles the test is built on, so the method you learn here transfers to the real test.
 
 ## Contributing
 

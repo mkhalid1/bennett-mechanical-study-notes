@@ -50,15 +50,9 @@ Most of these items are one-rule questions. Allow 15 seconds, or about 25 for a 
 
 ## Practice items
 
-These 10 items are original, written for these notes. They are not taken from the Bennett Mechanical Comprehension Test or any publisher's materials.
+These 5 items are original, written for these notes. They are not taken from the Bennett Mechanical Comprehension Test or any publisher's materials.
 
-**Item 1.** During a distant thunderstorm, you see a flash of lightning and hear the thunder several seconds later. Why?
-
-- A. The sound is partly absorbed by the air
-- B. Light travels much faster than sound
-- C. The lightning happens before the thunder
-
-**Item 2.** A ray of light hits the mirror at the angle shown. Which path does the reflected ray take?
+**Item 1.** A ray of light hits the mirror at the angle shown. Which path does the reflected ray take?
 
 ![A light ray hitting a flat mirror at 40 degrees, with three possible reflected paths](../../assets/snd-2-mirror.svg)
 
@@ -66,25 +60,13 @@ These 10 items are original, written for these notes. They are not taken from th
 - B. Path B
 - C. Path C
 
-**Item 3.** Through which of these does sound travel fastest?
-
-- A. Air
-- B. Water
-- C. Steel
-
-**Item 4.** A guitarist presses a string against a fret, which shortens the part of the string that vibrates. The note becomes:
-
-- A. Lower
-- B. Higher
-- C. The same
-
-**Item 5.** You shout towards a cliff 170 m away. Sound travels at about 340 m per second in air. How long until you hear the echo?
+**Item 2.** You shout towards a cliff 170 m away. Sound travels at about 340 m per second in air. How long until you hear the echo?
 
 - A. About 1 second
 - B. About half a second
 - C. About 2 seconds
 
-**Item 6.** Which tank holds the most water?
+**Item 3.** Which tank holds the most water?
 
 ![Three box-shaped tanks: A 2 by 2 by 6 m, B 4 by 4 by 1 m, C 3 by 3 by 3 m](../../assets/snd-6-three-boxes.svg)
 
@@ -92,27 +74,13 @@ These 10 items are original, written for these notes. They are not taken from th
 - B. Tank B
 - C. Tank C
 
-**Item 7.** Which cylindrical tank holds more water?
-
-![Two cylindrical tanks: A 2 m across and 1 m tall, B 1 m across and 2 m tall](../../assets/snd-7-two-cylinders.svg)
-
-- A. Tank A
-- B. Tank B
-- C. Both hold the same
-
-**Item 8.** A straight straw standing in a glass of water looks bent where it enters the water. Why?
-
-- A. The water pressure bends the straw slightly
-- B. Light changes direction as it passes from water into air
-- C. The glass reflects the straw at an angle
-
-**Item 9.** An ambulance with its siren on drives past you at a steady speed. What happens to the pitch you hear at the moment it goes past you?
+**Item 4.** An ambulance with its siren on drives past you at a steady speed. What happens to the pitch you hear at the moment it goes past you?
 
 - A. It rises
 - B. It falls
 - C. It stays the same
 
-**Item 10.** Where should the card be placed to cast the largest shadow on the wall?
+**Item 5.** Where should the card be placed to cast the largest shadow on the wall?
 
 ![A lamp, a wall, and three positions X, Y and Z for a card between them](../../assets/snd-10-shadow.svg)
 
@@ -121,39 +89,31 @@ These 10 items are original, written for these notes. They are not taken from th
 - C. At Z
 
 <details>
-<summary>Answers and explanations, items 1 to 10</summary>
+<summary>Answers and explanations, items 1 to 5</summary>
 
-**Item 1: B.** Lightning and thunder happen at the same moment. Light reaches you almost instantly, while sound takes about three seconds to cover each kilometre. *Why not C:* the thunder is the sound of the lightning itself, so they start together.
+**Item 1: A (40 degrees).** A mirror reflects light at the same angle it arrives. The ray comes in at 40 degrees to the mirror, so it leaves at 40 degrees on the other side. *Why not B:* straight up would only happen if the ray came in straight down, at 90 degrees.
 
-**Item 2: A (40 degrees).** A mirror reflects light at the same angle it arrives. The ray comes in at 40 degrees to the mirror, so it leaves at 40 degrees on the other side. *Why not B:* straight up would only happen if the ray came in straight down, at 90 degrees.
+**Item 2: A (about 1 second).** The sound travels to the cliff and back: 170 x 2 = 340 m. At 340 m per second, that takes 1 second. *Why not B:* half a second is the time to reach the cliff, without the return trip.
 
-**Item 3: C (steel).** Sound travels by particles passing on vibrations. In solids the particles are packed tightly and strongly linked, so sound moves fastest. Water comes next and air is slowest. *Why not A:* air is the slowest of the three.
+**Item 3: C (tank C).** A: 2 x 2 x 6 = 24 cubic metres. B: 4 x 4 x 1 = 16 cubic metres. C: 3 x 3 x 3 = 27 cubic metres. *Why not A:* A is the tallest, but tallest is not biggest.
 
-**Item 4: B (higher).** A shorter vibrating length vibrates faster, which gives a higher note. *Why not A:* a lower note comes from a longer, looser or thicker string.
+**Item 4: B (it falls).** As the ambulance approaches, the sound waves are squeezed together and the pitch is higher. As it moves away, they are stretched out and the pitch is lower. You hear the drop at the moment it passes. *Why not C:* the siren itself does not change, but what you hear does.
 
-**Item 5: A (about 1 second).** The sound travels to the cliff and back: 170 x 2 = 340 m. At 340 m per second, that takes 1 second. *Why not B:* half a second is the time to reach the cliff, without the return trip.
-
-**Item 6: C (tank C).** A: 2 x 2 x 6 = 24 cubic metres. B: 4 x 4 x 1 = 16 cubic metres. C: 3 x 3 x 3 = 27 cubic metres. *Why not A:* A is the tallest, but tallest is not biggest.
-
-**Item 7: A (tank A).** Tank A's base is a circle 2 m across, four times the area of tank B's 1 m circle. A is half as tall, so it holds 4 / 2 = 2 times as much as B. *Why not C:* swapping the diameter and height does not keep the volume equal, because the diameter counts twice.
-
-**Item 8: B.** Light from the part of the straw under water bends as it leaves the water and enters the air, so that part appears to be in a slightly different place. This is refraction. *Why not A:* the straw itself stays straight. Only its image is bent.
-
-**Item 9: B (it falls).** As the ambulance approaches, the sound waves are squeezed together and the pitch is higher. As it moves away, they are stretched out and the pitch is lower. You hear the drop at the moment it passes. *Why not C:* the siren itself does not change, but what you hear does.
-
-**Item 10: A (at X).** Close to the lamp, the lines of light passing the card's edges spread out over a long distance before reaching the wall, so the shadow is large. *Why not C:* next to the wall, the shadow is barely bigger than the card.
+**Item 5: A (at X).** Close to the lamp, the lines of light passing the card's edges spread out over a long distance before reaching the wall, so the shadow is large. *Why not C:* next to the wall, the shadow is barely bigger than the card.
 
 </details>
 
+Want more? The [free timed Bennett Mechanical practice test on PrepClubs](https://prepclubs.com/free-practice-tests/bennett-mechanical?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=bennett-mechanical) has the full 55 questions in 25 minutes, every answer explained.
+
 ## Score yourself
 
-| Item | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
-| Answer | B | A | C | B | A | C | A | B | B | A |
+| Item | 1 | 2 | 3 | 4 | 5 |
+|---|---|---|---|---|---|
+| Answer | A | A | C | B | A |
 
-- **9 to 10:** this topic is covered. Spend your time on weaker areas.
-- **6 to 8:** check whether misses were volume arithmetic or a wave rule. Redo volumes with the numbers written down.
-- **5 or fewer:** learn the rules list at the top, then redo the items one rule at a time.
+- **5 of 5:** this topic is covered. Spend your time on weaker areas.
+- **3 to 4:** check whether misses were volume arithmetic or a wave rule. Redo volumes with the numbers written down.
+- **2 or fewer:** learn the rules list at the top, then redo the items one rule at a time.
 
 ## Next step
 
