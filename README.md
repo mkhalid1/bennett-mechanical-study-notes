@@ -6,7 +6,7 @@ Want to see where you stand first? Take the [free timed Bennett Mechanical pract
 
 ## Start here
 
-1. **Find your weak topics.** Take the [15-minute diagnostic](docs/diagnostic.md). It has three items from each topic and tells you where to start.
+1. **Find your weak topics.** Take the [15-minute diagnostic](docs/diagnostic.md). It has one item from each topic and tells you where to start.
 2. **Fix the weakest topic first.** Open its guide below, learn the rules and the method, then do its 5 practice items.
 3. **Follow a plan.** Use the [7-day plan](docs/study-plans.md#7-day-plan), or the [2-day plan](docs/study-plans.md#2-day-plan) if your test link has already arrived.
 

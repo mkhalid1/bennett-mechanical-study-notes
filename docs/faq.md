@@ -75,7 +75,7 @@ That is up to the employer or programme. Pearson does not publish a candidate re
 
 ## Where can I practise for free?
 
-All 104 items in this repo are free, with explanations. For a full timed run, the [free Bennett Mechanical practice test on PrepClubs](https://prepclubs.com/free-practice-tests/bennett-mechanical?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=bennett-mechanical) has 55 original picture questions with a 25-minute timer.
+All 48 items in this repo are free, with explanations. For a full timed run, the [free Bennett Mechanical practice test on PrepClubs](https://prepclubs.com/free-practice-tests/bennett-mechanical?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=bennett-mechanical) has 55 original picture questions with a 25-minute timer.
 
 ---
 
