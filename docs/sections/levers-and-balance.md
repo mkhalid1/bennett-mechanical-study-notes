@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [15-minute diagnostic](../diagnostic.md) · Next: [Gears, belts and wheels](gears-belts-and-wheels.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [15-minute diagnostic](../diagnostic.md) · Next: [Gears, belts and wheels](gears-belts-and-wheels.md)
+<!-- /nav:top -->
 
 # Levers and balance
 
@@ -126,4 +128,6 @@ Once force times distance is automatic, lever items take seconds. See whether it
 
 ---
 
-<!-- nav:bottom -->← Previous: [15-minute diagnostic](../diagnostic.md) | Next: [Gears, belts and wheels](gears-belts-and-wheels.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [15-minute diagnostic](../diagnostic.md) | Next: [Gears, belts and wheels](gears-belts-and-wheels.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->

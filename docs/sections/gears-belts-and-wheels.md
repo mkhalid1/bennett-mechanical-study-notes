@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [Levers and balance](levers-and-balance.md) · Next: [Pulleys, ramps, screws and wedges](pulleys-and-inclined-planes.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [Levers and balance](levers-and-balance.md) · Next: [Pulleys, ramps, screws and wedges](pulleys-and-inclined-planes.md)
+<!-- /nav:top -->
 
 # Gears, belts and wheels
 
@@ -124,4 +126,6 @@ Counting meshes gets faster every time you do it. Get the repetitions in with a 
 
 ---
 
-<!-- nav:bottom -->← Previous: [Levers and balance](levers-and-balance.md) | Next: [Pulleys, ramps, screws and wedges](pulleys-and-inclined-planes.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Levers and balance](levers-and-balance.md) | Next: [Pulleys, ramps, screws and wedges](pulleys-and-inclined-planes.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->

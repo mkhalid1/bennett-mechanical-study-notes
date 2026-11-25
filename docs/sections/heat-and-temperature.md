@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [Fluids and hydraulics](fluids-and-hydraulics.md) · Next: [Electricity](electricity.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [Fluids and hydraulics](fluids-and-hydraulics.md) · Next: [Electricity](electricity.md)
+<!-- /nav:top -->
 
 # Heat and temperature
 
@@ -118,4 +120,6 @@ Heat items are short, so they are good places to bank time for harder ones. See 
 
 ---
 
-<!-- nav:bottom -->← Previous: [Fluids and hydraulics](fluids-and-hydraulics.md) | Next: [Electricity](electricity.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Fluids and hydraulics](fluids-and-hydraulics.md) | Next: [Electricity](electricity.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->

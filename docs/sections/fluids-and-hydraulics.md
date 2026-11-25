@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [Pulleys, ramps, screws and wedges](pulleys-and-inclined-planes.md) · Next: [Heat and temperature](heat-and-temperature.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [Pulleys, ramps, screws and wedges](pulleys-and-inclined-planes.md) · Next: [Heat and temperature](heat-and-temperature.md)
+<!-- /nav:top -->
 
 # Fluids and hydraulics
 
@@ -125,4 +127,6 @@ In the real test, a fluid item can come straight after a gear or a circuit. Prac
 
 ---
 
-<!-- nav:bottom -->← Previous: [Pulleys, ramps, screws and wedges](pulleys-and-inclined-planes.md) | Next: [Heat and temperature](heat-and-temperature.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Pulleys, ramps, screws and wedges](pulleys-and-inclined-planes.md) | Next: [Heat and temperature](heat-and-temperature.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->

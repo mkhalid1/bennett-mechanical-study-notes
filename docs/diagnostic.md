@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../README.md#contents) · Previous: [The Bennett test explained](test-overview.md) · Next: [Levers and balance](sections/levers-and-balance.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../README.md#contents) · Previous: [The Bennett test explained](test-overview.md) · Next: [Levers and balance](sections/levers-and-balance.md)
+<!-- /nav:top -->
 
 # 15-minute diagnostic
 
@@ -112,4 +114,6 @@ Then pick a plan: the [7-day plan](study-plans.md#7-day-plan) if you have a week
 
 ---
 
-<!-- nav:bottom -->← Previous: [The Bennett test explained](test-overview.md) | Next: [Levers and balance](sections/levers-and-balance.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [The Bennett test explained](test-overview.md) | Next: [Levers and balance](sections/levers-and-balance.md) → | [Back to contents](../README.md#contents)
+<!-- /nav:bottom -->

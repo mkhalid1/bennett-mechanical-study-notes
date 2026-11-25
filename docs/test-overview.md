@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../README.md#contents) · Next: [15-minute diagnostic](diagnostic.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../README.md#contents) · Next: [15-minute diagnostic](diagnostic.md)
+<!-- /nav:top -->
 
 # The Bennett Mechanical Comprehension Test explained
 
@@ -83,4 +85,6 @@ The fastest way to understand the format is to try it under time pressure. The [
 
 ---
 
-<!-- nav:bottom -->Next: [15-minute diagnostic](diagnostic.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+Next: [15-minute diagnostic](diagnostic.md) → | [Back to contents](../README.md#contents)
+<!-- /nav:bottom -->

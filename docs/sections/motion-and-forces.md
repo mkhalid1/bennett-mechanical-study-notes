@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [Electricity](electricity.md) · Next: [Sound, light, shapes and volumes](sound-light-and-shapes.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [Electricity](electricity.md) · Next: [Sound, light, shapes and volumes](sound-light-and-shapes.md)
+<!-- /nav:top -->
 
 # Motion and forces
 
@@ -122,4 +124,6 @@ Trap answers are most tempting when the clock is running. Test your rules under 
 
 ---
 
-<!-- nav:bottom -->← Previous: [Electricity](electricity.md) | Next: [Sound, light, shapes and volumes](sound-light-and-shapes.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Electricity](electricity.md) | Next: [Sound, light, shapes and volumes](sound-light-and-shapes.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->

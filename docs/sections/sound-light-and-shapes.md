@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [Motion and forces](motion-and-forces.md) · Next: [How scoring works](../scoring.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [Motion and forces](motion-and-forces.md) · Next: [How scoring works](../scoring.md)
+<!-- /nav:top -->
 
 # Sound, light, shapes and volumes
 
@@ -121,4 +123,6 @@ These are the topics people meet cold on the day. Make sure you have seen them u
 
 ---
 
-<!-- nav:bottom -->← Previous: [Motion and forces](motion-and-forces.md) | Next: [How scoring works](../scoring.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Motion and forces](motion-and-forces.md) | Next: [How scoring works](../scoring.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->

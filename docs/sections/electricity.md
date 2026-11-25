@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [Heat and temperature](heat-and-temperature.md) · Next: [Motion and forces](motion-and-forces.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [Heat and temperature](heat-and-temperature.md) · Next: [Motion and forces](motion-and-forces.md)
+<!-- /nav:top -->
 
 # Electricity
 
@@ -119,4 +121,6 @@ Tracing a loop is easy when nothing is ticking. Check you can still do it at tes
 
 ---
 
-<!-- nav:bottom -->← Previous: [Heat and temperature](heat-and-temperature.md) | Next: [Motion and forces](motion-and-forces.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Heat and temperature](heat-and-temperature.md) | Next: [Motion and forces](motion-and-forces.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->

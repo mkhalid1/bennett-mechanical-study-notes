@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../README.md#contents) · Previous: [Sound, light, shapes and volumes](sections/sound-light-and-shapes.md) · Next: [Timing and pacing](timing.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../README.md#contents) · Previous: [Sound, light, shapes and volumes](sections/sound-light-and-shapes.md) · Next: [Timing and pacing](timing.md)
+<!-- /nav:top -->
 
 # How BMCT-II scoring works
 
@@ -71,4 +73,6 @@ You will see a different set of items each time. The scoring system adjusts for 
 
 ---
 
-<!-- nav:bottom -->← Previous: [Sound, light, shapes and volumes](sections/sound-light-and-shapes.md) | Next: [Timing and pacing](timing.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Sound, light, shapes and volumes](sections/sound-light-and-shapes.md) | Next: [Timing and pacing](timing.md) → | [Back to contents](../README.md#contents)
+<!-- /nav:bottom -->

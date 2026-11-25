@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [Gears, belts and wheels](gears-belts-and-wheels.md) · Next: [Fluids and hydraulics](fluids-and-hydraulics.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [Gears, belts and wheels](gears-belts-and-wheels.md) · Next: [Fluids and hydraulics](fluids-and-hydraulics.md)
+<!-- /nav:top -->
 
 # Pulleys, ramps, screws and wedges
 
@@ -121,4 +123,6 @@ Real pulley drawings vary a lot. Get used to counting ropes in unfamiliar layout
 
 ---
 
-<!-- nav:bottom -->← Previous: [Gears, belts and wheels](gears-belts-and-wheels.md) | Next: [Fluids and hydraulics](fluids-and-hydraulics.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Gears, belts and wheels](gears-belts-and-wheels.md) | Next: [Fluids and hydraulics](fluids-and-hydraulics.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->
