@@ -102,7 +102,7 @@ These 5 items are original, written for these notes. They are not taken from the
 
 </details>
 
-Want more? The [free timed Bennett Mechanical practice test on PrepClubs](https://prepclubs.com/free-practice-tests/bennett-mechanical?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=bennett-mechanical) has the full 55 questions in 25 minutes, every answer explained.
+Want more? The [free timed Bennett Mechanical practice test on PrepClubs](https://prepclubs.com/free-practice-tests/bennett-mechanical?utm_source=github&utm_medium=referral&utm_campaign=c6wnky&utm_content=bennett-mechanical) has the full 55 questions in 25 minutes, every answer explained.
 
 ## Score yourself
 
@@ -116,7 +116,7 @@ Want more? The [free timed Bennett Mechanical practice test on PrepClubs](https:
 
 ## Next step
 
-Heat items are short, so they are good places to bank time for harder ones. See how quickly you clear them in the [free Bennett Mechanical practice test on PrepClubs](https://prepclubs.com/free-practice-tests/bennett-mechanical?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=bennett-mechanical).
+Heat items are short, so they are good places to bank time for harder ones. See how quickly you clear them in the [free Bennett Mechanical practice test on PrepClubs](https://prepclubs.com/free-practice-tests/bennett-mechanical?utm_source=github&utm_medium=referral&utm_campaign=c6wnky&utm_content=bennett-mechanical).
 
 ---
 

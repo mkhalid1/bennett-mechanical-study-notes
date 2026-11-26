@@ -14,7 +14,7 @@ Two plans: one for a week, one for when the invitation has already arrived. Both
 | 2 | Levers, pulleys and ramps | Read the [levers](sections/levers-and-balance.md) and [pulleys](sections/pulleys-and-inclined-planes.md) guides and do both item sets. These two share one idea: force traded for distance. |
 | 3 | Gears and motion | Read the [gears](sections/gears-belts-and-wheels.md) and [motion](sections/motion-and-forces.md) guides. Do both item sets. Say the direction rule out loud until it is automatic. |
 | 4 | Fluids, heat and electricity | Read the [fluids](sections/fluids-and-hydraulics.md), [heat](sections/heat-and-temperature.md) and [electricity](sections/electricity.md) guides. Write the rules from each on one card. |
-| 5 | First timed run | Read the [sound, light and shapes](sections/sound-light-and-shapes.md) guide. Then take a full timed practice test, such as the [free one on PrepClubs](https://prepclubs.com/free-practice-tests/bennett-mechanical?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=bennett-mechanical). Read the [timing guide](timing.md). |
+| 5 | First timed run | Read the [sound, light and shapes](sections/sound-light-and-shapes.md) guide. Then take a full timed practice test, such as the [free one on PrepClubs](https://prepclubs.com/free-practice-tests/bennett-mechanical?utm_source=github&utm_medium=referral&utm_campaign=c6wnky&utm_content=bennett-mechanical). Read the [timing guide](timing.md). |
 | 6 | Fix the weakest topics | Go back to the two topics that cost you most on day 5. Redo their items without looking at the answers. Reread their traps lists. |
 | 7 | Second timed run and rest | Take a second full timed test in the morning. Compare with day 5. Read the [test-day checklist](test-day-checklist.md). Stop studying by early evening. |
 
@@ -39,7 +39,7 @@ For when the test link has arrived and the deadline is close.
 | 1 | 15 min | Take the [diagnostic](diagnostic.md). |
 | 2 | 30 min | Read the "What it measures" and "Traps" parts of all eight topic guides. Skip the rest for now. |
 | 3 | 40 min | Do the practice items for your three weakest topics. Read every explanation, including for items you got right. |
-| 4 | 25 min | Take a full timed practice test, such as the [free one on PrepClubs](https://prepclubs.com/free-practice-tests/bennett-mechanical?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=bennett-mechanical). |
+| 4 | 25 min | Take a full timed practice test, such as the [free one on PrepClubs](https://prepclubs.com/free-practice-tests/bennett-mechanical?utm_source=github&utm_medium=referral&utm_campaign=c6wnky&utm_content=bennett-mechanical). |
 | 5 | 20 min | Review every miss with the three questions above. |
 
 ### Day 2: sit the test

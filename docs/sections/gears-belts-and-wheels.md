@@ -108,7 +108,7 @@ These 5 items are original, written for these notes. They are not taken from the
 
 </details>
 
-Want more? The [free timed Bennett Mechanical practice test on PrepClubs](https://prepclubs.com/free-practice-tests/bennett-mechanical?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=bennett-mechanical) has the full 55 questions in 25 minutes, every answer explained.
+Want more? The [free timed Bennett Mechanical practice test on PrepClubs](https://prepclubs.com/free-practice-tests/bennett-mechanical?utm_source=github&utm_medium=referral&utm_campaign=c6wnky&utm_content=bennett-mechanical) has the full 55 questions in 25 minutes, every answer explained.
 
 ## Score yourself
 
@@ -122,7 +122,7 @@ Want more? The [free timed Bennett Mechanical practice test on PrepClubs](https:
 
 ## Next step
 
-Counting meshes gets faster every time you do it. Get the repetitions in with a timer running, in the [free Bennett Mechanical practice test on PrepClubs](https://prepclubs.com/free-practice-tests/bennett-mechanical?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=bennett-mechanical).
+Counting meshes gets faster every time you do it. Get the repetitions in with a timer running, in the [free Bennett Mechanical practice test on PrepClubs](https://prepclubs.com/free-practice-tests/bennett-mechanical?utm_source=github&utm_medium=referral&utm_campaign=c6wnky&utm_content=bennett-mechanical).
 
 ---
 

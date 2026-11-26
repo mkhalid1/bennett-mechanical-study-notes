@@ -8,7 +8,7 @@ Eight original items, one from each of the eight topics, to show you where to st
 
 These items are original, written for these notes. They are not taken from the Bennett Mechanical Comprehension Test or any publisher's materials. The real test shows a picture with every question. These items are in words so you can do them anywhere, with a pencil and paper for the arithmetic.
 
-If you already know the basics of each topic, skip this and take the [free Bennett Mechanical practice test on PrepClubs](https://prepclubs.com/free-practice-tests/bennett-mechanical?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=bennett-mechanical) instead. A full timed run gives a better picture of pacing.
+If you already know the basics of each topic, skip this and take the [free Bennett Mechanical practice test on PrepClubs](https://prepclubs.com/free-practice-tests/bennett-mechanical?utm_source=github&utm_medium=referral&utm_campaign=c6wnky&utm_content=bennett-mechanical) instead. A full timed run gives a better picture of pacing.
 
 ## Part A: Levers and balance
 

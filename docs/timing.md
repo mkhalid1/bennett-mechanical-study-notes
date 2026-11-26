@@ -55,7 +55,7 @@ Glance at the clock at these points. If you are behind, speed up on the next few
 
 - **Drill topics in short bursts.** Do 10 items from one topic in 3 minutes. That builds the recognition speed.
 - **Then mix topics.** Switching between gears, circuits and fluids is harder than doing ten of one kind. The real test mixes them.
-- **Take at least two full timed runs** before the test. The [free Bennett Mechanical practice test on PrepClubs](https://prepclubs.com/free-practice-tests/bennett-mechanical?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=bennett-mechanical) has 55 items and a 25-minute timer, the same length as the real test.
+- **Take at least two full timed runs** before the test. The [free Bennett Mechanical practice test on PrepClubs](https://prepclubs.com/free-practice-tests/bennett-mechanical?utm_source=github&utm_medium=referral&utm_campaign=c6wnky&utm_content=bennett-mechanical) has 55 items and a 25-minute timer, the same length as the real test.
 - **Review by topic.** After each timed run, look at which topic cost the most time, not only which items you got wrong.
 
 ---

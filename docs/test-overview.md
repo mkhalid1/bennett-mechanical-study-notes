@@ -81,7 +81,7 @@ Questions in the real test are drawn from Pearson's item bank and are not public
 
 ## Practise the real format
 
-The fastest way to understand the format is to try it under time pressure. The [free Bennett Mechanical practice test on PrepClubs](https://prepclubs.com/free-practice-tests/bennett-mechanical?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=bennett-mechanical) uses 55 original picture-based questions with a 25-minute timer. Or start with the shorter [15-minute diagnostic](diagnostic.md) in this repo.
+The fastest way to understand the format is to try it under time pressure. The [free Bennett Mechanical practice test on PrepClubs](https://prepclubs.com/free-practice-tests/bennett-mechanical?utm_source=github&utm_medium=referral&utm_campaign=c6wnky&utm_content=bennett-mechanical) uses 55 original picture-based questions with a 25-minute timer. Or start with the shorter [15-minute diagnostic](diagnostic.md) in this repo.
 
 ---
 

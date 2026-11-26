@@ -41,7 +41,7 @@ A short list for the day you sit the BMCT-II online. Your invitation from the em
 
 ## Last practice before the real one
 
-If you have time for one more run, take the [free Bennett Mechanical practice test on PrepClubs](https://prepclubs.com/free-practice-tests/bennett-mechanical?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=bennett-mechanical) under real timing, at the same time of day as your test.
+If you have time for one more run, take the [free Bennett Mechanical practice test on PrepClubs](https://prepclubs.com/free-practice-tests/bennett-mechanical?utm_source=github&utm_medium=referral&utm_campaign=c6wnky&utm_content=bennett-mechanical) under real timing, at the same time of day as your test.
 
 ---
 
